@@ -64,7 +64,7 @@ public class MainClass {
                         
                     case "F":
                       prodserv.crearProducto();
-                      prodserv.imprimirProductos();
+                     
                         break;
                         
                     case "G":

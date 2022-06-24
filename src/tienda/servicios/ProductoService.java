@@ -100,7 +100,7 @@ public class ProductoService {
     
     
     
-    public Collection<Producto> todosLosProductos() throws Exception {
+    public Collection<Producto> todosLosProductos() throws Exception{
         
        try {
 
